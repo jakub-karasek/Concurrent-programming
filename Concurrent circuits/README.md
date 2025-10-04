@@ -1,7 +1,3 @@
-Here’s the English translation of your text, keeping the technical meaning and style intact:
-
----
-
 ### Concurrent Circuits
 
 Boolean circuits represent Boolean expressions using graphs. For example, the expression
